@@ -1,5 +1,5 @@
 # KLH-FSFE-S04-8.Academic-Calendar-Builder-
-# KLH-FED-2026-AcademicCalendarBuilder
+
 1. Project Title
   Academic Calendar Builder
 A web application for displaying and managing academic dates such as semester schedules, examinations, holidays and events.
